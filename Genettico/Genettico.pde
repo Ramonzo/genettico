@@ -42,7 +42,7 @@ boolean hasFinished = true;
 //Setup
 void setup(){
   rectMode(CENTER);
-  size(700,700);
+  size(600,600);
   frameRate(24);
   
   //CORES PADRÕES
